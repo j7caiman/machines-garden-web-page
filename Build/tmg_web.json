@@ -1,0 +1,15 @@
+{
+"companyName": "TMG",
+"productName": "The Machine's Garden",
+"productVersion": "0.01",
+"dataUrl": "tmg_web.data.unityweb",
+"wasmCodeUrl": "tmg_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "tmg_web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f3"
+}
