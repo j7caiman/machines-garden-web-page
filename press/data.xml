@@ -2,7 +2,7 @@
 
 <game>
 	<title>The Machine's Garden</title>
-	<release-date>Summer 2020</release-date>
+
 	<website>http://www.machinesgarden.com/</website>
 	<based-in>Durham, North Carolina, United States</based-in>
 	<press-can-request-copy>TRUE</press-can-request-copy>
@@ -14,24 +14,7 @@
 		</social>
 	</socials>
 
-	<platforms>
-		<platform>
-			<name>PC / Mac</name>
-			<link></link>
-		</platform>
-		<platform>
-			<name>Steam</name>
-			<link>https://steampowered.com/app/1317310/The_Machines_Garden/</link>
-		</platform>
-		<platform>
-			<name>iOS (App Store)</name>
-			<link></link>
-		</platform>
-		<platform>
-			<name>Android (Google Play)</name>
-			<link></link>
-		</platform>
-	</platforms>
+
 
 	<description>
 		Use the intelligence of a decommissioned military supercomputer to solve puzzles and guide the lives of humble villagers. Uncover the mystery of the Machine's Garden as you make your way through this short and challenging narrative-puzzle game.  Repair the Machine's forgotten subsystems, but beware the consequences. After centuries of dormancy, the military installation, vast and serpentine, has opened its eye.
