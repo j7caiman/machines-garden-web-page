@@ -1,103 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- example file containing base tags -->
 
 <game>
 	<title>The Machine's Garden</title>
-	<founding-date>August 1, 2017</founding-date>
+	<release-date>Summer 2020</release-date>
 	<website>http://www.machinesgarden.com/</website>
-	<based-in>Durham, North Carolina</based-in>
-
-	<press-contact>machinesgarden@gmail.com</press-contact>
+	<based-in>Durham, North Carolina, United States</based-in>
+	<press-can-request-copy>TRUE</press-can-request-copy>
 
 	<socials>
 		<social>
 			<name>twitter.com/machinesgarden</name>
 			<link>twitter.com/machinesgarden</link>
 		</social>
-
 	</socials>
 
+	<platforms>
+		<platform>
+			<name>PC / Mac</name>
+			<link></link>
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<link>https://steampowered.com/app/1317310/The_Machines_Garden/</link>
+		</platform>
+		<platform>
+			<name>iOS (App Store)</name>
+			<link></link>
+		</platform>
+		<platform>
+			<name>Android (Google Play)</name>
+			<link></link>
+		</platform>
+	</platforms>
+
 	<description>
-		The Machines Garden is the first major release by developers Jon and Michael.
+		Use the intelligence of a decommissioned military supercomputer to solve puzzles and guide the lives of humble villagers. Uncover the mystery of the Machine's Garden as you make your way through this short and challenging narrative-puzzle game.  Repair the Machine's forgotten subsystems, but beware the consequences. After centuries of dormancy, the military installation, vast and serpentine, has opened its eye.
 	</description>
 
-	<histories>
-		<history>
-			<header>History</header>
-			<text>Jon and Michael worked together previously on small projects and decided to develop a puzzle game after the success of their jam game, Snailboat. The Machines Garden is a passion project spanning nearly 3 years, made in between major life events.</text>
-		</history>
-	</histories>
+	<history>
+		The Machines Garden is the first major release by developers Jon and Michael, based in North Carolina,  US.  The team decided to start development on The Machine's Garden after the success of their jam game, Snailboat in the first GMTK Game Jam. The Machines Garden is a passion project spanning nearly 3 years made in short bursts between major life events.
+	</history>
+	<features>
+		<feature>Think critically to make your way through 35+ challenging and handcrafted hex grid puzzles</feature>
+		<feature>Master the use of special cells that launch, attach and multiply hexes to solve puzzles</feature>
+		<feature>Explore a poignant, yet lighthearted narrative through a series of slowly unraveling stories</feature>
+		<feature>Immerse yourself in the atmospheric audio and visuals of the Machine's control room</feature>
+	</features>
+
 
 	<trailers>
 		<trailer>
-			<name>Placeholder Trailer</name>
-			<youtube>1R5AI9RJ51o</youtube>
+			<name>Gameplay Trailer</name>
+			<youtube>p6xMH2sO8YQ</youtube>
 		</trailer>
 
 	</trailers>
-
-	<!--
-	<awards>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-	</awards>
--->
-
-	<!--
-	<quotes>
-		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
-		</quote>
-		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
-		</quote>
-		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
-		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
-		</quote>
-	</quotes>
-	-->
-
-	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
-	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
-																			 	ask (permission on case-per-case basis),
-																			 	non-commercial (no monetization allowed),
-																			 	monetize (full permission) -->
-	<additionals>
-		<additional>
-			<title>Company Link #1</title>
-			<description>This link is a link that might be useful. You can check it out at</description>
-			<link>http://somemusicsite.com/thislink</link>
-		</additional>
-	</additionals>
 
 	<credits>
 		<credit>
@@ -106,23 +63,9 @@
 		</credit>
 		<credit>
 			<person>Michael Schmitt</person>
-			<website>www.twitter.com/toomuchtomato</website>
+			<website>https://twitter.com/toomuchtomato</website>
 			<role>VFX, Audio, Puzzle Design, Publishing, Additional Code</role>
 		</credit>
 	</credits>
 
-	<contacts>
-		<contact>
-			<name>Inquiries</name>
-			<mail>machinesgarden@gmail.com</mail>
-		</contact>
-		<contact>
-			<name>Twitter</name>
-			<link>http://twitter.com/machinesgarden</link>
-		</contact>
-		<contact>
-			<name>Web</name>
-			<link>machinesgarden.com</link>
-		</contact>
-	</contacts>
 </game>
